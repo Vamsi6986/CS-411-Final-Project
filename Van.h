@@ -1,8 +1,6 @@
 /*
- * Van.h
- *
- *  Created on: Apr 23, 2017
- *      Author: Dakota
+ *File Name: Van.h
+ *Author: Dakota Swanson
  */
 
 #ifndef SRC_VAN_H_
